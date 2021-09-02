@@ -19,4 +19,4 @@ RPC框架的原理其实很简单。
 
 借用（抄）一下[声哥](https://github.com/CN-GuoZiyang/My-RPC-Framework)用（抄）[Guide哥](https://github.com/Snailclimb/JavaGuide)的一张图。🤪
 
-![RPC框架思路](https://cdn.jsdelivr.net/gh/zzzzzy2k/Figurebed@main/RPC/20210902000453)
+![RPC框架思路](https://cdn.jsdelivr.net/gh/zzzzzy2k/Figurebed@main/RPC/20210902004559.png)
